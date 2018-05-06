@@ -1,0 +1,18 @@
+{
+  "Rsvp": {
+    "attributes": {
+      "Name": {
+        "appearance": ""
+      },
+      "Email": {
+        "appearance": ""
+      },
+      "Attending": {
+        "appearance": ""
+      },
+      "Food": {
+        "appearance": ""
+      }
+    }
+  }
+}
