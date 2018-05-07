@@ -39,6 +39,7 @@ module.exports = {
    */
 
   create: async (ctx) => {
+    console.log(ctx)
     return strapi.services.rsvp.add(ctx.request.body);
   },
 
